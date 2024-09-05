@@ -1,3 +1,5 @@
+<img align="left" src="https://www.codewars.com/users/Iconians/badges/micro" />
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Iconians.Iconians" />
 
 <h1 align="center">
