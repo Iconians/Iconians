@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **Freelance projects**
  
- 🌱 I’m currently learning **Web accessibility**
+ 🌱 I’m currently learning **Backend Tech**
 
 💬 Ask me about **Node.js, React... or anything**
 
@@ -42,7 +42,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,postman,vite,vitest," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nextjs,vue,supabase,vercel,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,nextjs,vue,supabase,vercel,sqlite,python" /><br>
 </div>
 
 <br/>
