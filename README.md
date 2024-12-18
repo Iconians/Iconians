@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **Freelance projects**
  
- 🌱 I’m currently learning **Backend Tech**
+ 🌱 I’m currently deepening my **Backend Tech**
 
 💬 Ask me about **Node.js, React... or anything**
 
