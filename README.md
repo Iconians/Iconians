@@ -58,7 +58,9 @@
 
 <hr/>
 
-[![trophy](https://github-profile-trophy-liart-nine.vercel.app/?username=Iconians&theme=onedark)](https://github.com/Iconians/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liart-nine.vercel.app/?username=Iconians&theme=onedark)]
+
+<!-- (https://github.com/Iconians/github-profile-trophy) -->
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
