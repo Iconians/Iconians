@@ -58,7 +58,7 @@
 
 <hr/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iconians)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Iconians&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
