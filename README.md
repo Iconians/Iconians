@@ -53,7 +53,7 @@ I've built:
 Next.js • React • TypeScript • HTML • CSS
 
 **Backend**  
-Node.js • Go • PostgreSQL • SQL • REST APIs
+Node.js • PostgreSQL • SQL • REST APIs
 
 **Systems & Tooling**  
 Docker • Git • CI/CD • Linux
