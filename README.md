@@ -58,9 +58,9 @@ Node.js • Go • PostgreSQL • SQL • REST APIs
 **Systems & Tooling**  
 Docker • Git • CI/CD • Linux
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,vscode,git,github,figma,tailwind,postman,vite,vitest,nodejs,javascript,typescript,express,nextjs,vue,supabase,vercel,sqlite,python" />
-</div>
+</div> -->
 
 ---
 
@@ -86,9 +86,9 @@ Docker • Git • CI/CD • Linux
   </a>
 </div>
 
-- **Portfolio:** [claytoncripe.com](https://www.claytoncripe.com)
+<!-- - **Portfolio:** [claytoncripe.com](https://www.claytoncripe.com)
 - **LinkedIn:** [linkedin.com/in/claytoncripe](https://www.linkedin.com/in/claytoncripe)
-- **Email:** claytoncripe@gmail.com
+- **Email:** claytoncripe@gmail.com -->
 
 If you're building a product and need someone who thinks beyond the UI and into the **system design**, I'm always open to connecting.
 
@@ -103,11 +103,11 @@ If you're building a product and need someone who thinks beyond the UI and into 
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=Iconians&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Iconians&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iconians&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div> -->
