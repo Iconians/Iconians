@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-stack+engineer;Building+SaaS+that+scales;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-stack+engineer;Building+scalable+SaaS+systems;" />
 </h1>
 
 <p align="center">
@@ -34,8 +34,6 @@ I've built:
 - Role-based access control (RBAC)
 - Production database query optimizations
 
-*Fun fact: If debugging is the process of removing bugs, then programming must be the process of putting them in.*
-
 ---
 
 ## ⚙️ What I Care About
@@ -44,6 +42,36 @@ I've built:
 - Clean architecture that scales
 - Choosing the **right tool — not the trendy one**
 - Shipping features that solve **real problems**
+
+---
+
+## 🏗 Architecture Principles
+
+Some design principles I follow when building SaaS systems:
+
+**Server-first architecture**
+
+Use Next.js server rendering and API routes to keep business logic close to the backend.
+
+**Relational data modeling**
+
+PostgreSQL schemas designed around real domain relationships rather than quick NoSQL patterns.
+
+**Clear ownership of state**
+
+Client state for UI only.  
+Server state for business logic and persistence.
+
+**Pragmatic tool selection**
+
+Choose the tool that solves the problem — not the one trending on Twitter.
+
+## Systems I've Built
+
+• Multi-tenant SaaS platforms
+• Stripe subscription billing systems
+• Role-based access control systems
+• Server-side rendered applications
 
 ---
 
