@@ -12,6 +12,25 @@
   Full-stack engineer focused on building performant, well-architected SaaS applications.
 </p>
 
+## 🚀 What I'm Building
+
+Currently focused on building and exploring **production SaaS systems**.
+
+Recent work includes:
+
+• **IntelliTaskPro** – AI-powered project management SaaS with multi-tenant architecture, Stripe subscriptions, and real-time collaboration  
+• **Ghost Mammoth Pickleball** – Membership and event management SaaS for a pickleball club with subscription billing  
+• **Developer Education** – Creating course material and mentoring students building full-stack applications
+
+## 🧠 Engineering Focus
+
+• SaaS architecture  
+• Backend system design  
+• Multi-tenant database modeling  
+• Subscription billing systems  
+• AI integrations in production apps  
+• Real-time collaboration systems
+
 ---
 
 ## 🧠 About Me
@@ -75,13 +94,19 @@ Choose the tool that solves the problem — not the one trending on Twitter.
 
 ---
 
-## 🛠 Tech I Work With
+## 🛠️ Tech Stack
 
-**Frontend**  
-Next.js • React • TypeScript • HTML • CSS
+**Frontend**
+Next.js • React • TypeScript • Tailwind
 
-**Backend**  
-Node.js • PostgreSQL • SQL • REST APIs
+**Backend**
+Node.js • PostgreSQL • Prisma • REST APIs
+
+**Infrastructure**
+Stripe • Redis • BullMQ • Pusher
+
+**AI**
+Google Gemini • Ollama
 
 **Systems & Tooling**  
 Docker • Git • CI/CD • Linux
@@ -114,9 +139,16 @@ Docker • Git • CI/CD • Linux
   </a>
 </div>
 
-<!-- - **Portfolio:** [claytoncripe.com](https://www.claytoncripe.com)
-- **LinkedIn:** [linkedin.com/in/claytoncripe](https://www.linkedin.com/in/claytoncripe)
-- **Email:** claytoncripe@gmail.com -->
+## 📌 Featured Projects
+
+**IntelliTaskPro**  
+AI-powered SaaS project management platform with Stripe billing and multi-tenant architecture.
+
+**Ghost Mammoth Pickleball**  
+Full-stack membership platform for managing pickleball leagues and events.
+
+**Personal Portfolio**  
+Developer portfolio built with Next.js highlighting full-stack SaaS projects.
 
 If you're building a product and need someone who thinks beyond the UI and into the **system design**, I'm always open to connecting.
 
@@ -128,6 +160,8 @@ If you're building a product and need someone who thinks beyond the UI and into 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Iconians/Iconians/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
+![Clayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iconians&show_icons=true&theme=tokyonight)
 
 ---
 
