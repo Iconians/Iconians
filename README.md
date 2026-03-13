@@ -9,18 +9,29 @@
 </h1>
 
 <p align="center">
-  Full-stack engineer focused on building performant, well-architected SaaS applications.
+  Full-stack engineer building SaaS products and mentoring developers in modern web technologies.
 </p>
 
 ## 🚀 What I'm Building
 
-Currently focused on building and exploring **production SaaS systems**.
+I focus on building **production SaaS systems** and helping new developers learn modern full-stack development.
 
-Recent work includes:
+Current work includes:
 
-• **IntelliTaskPro** – AI-powered project management SaaS with multi-tenant architecture, Stripe subscriptions, and real-time collaboration  
-• **Ghost Mammoth Pickleball** – Membership and event management SaaS for a pickleball club with subscription billing  
-• **Developer Education** – Creating course material and mentoring students building full-stack applications
+• **IntelliTaskPro** – AI-powered project management SaaS with multi-tenant architecture and Stripe billing  
+• **Ghost Mammoth Pickleball** – membership and event management SaaS for a pickleball club  
+• **Developer Education** – mentoring students and creating course material for modern web development
+
+## 🎓 Teaching & Mentorship
+
+In addition to building SaaS products, I mentor and teach students learning full-stack web development.
+
+I help students move beyond tutorials by focusing on:
+
+• Understanding how real web applications are structured  
+• Learning how to read documentation and solve problems independently  
+• Building full-stack projects with modern tools like Next.js and PostgreSQL  
+• Exploring new tooling such as Bun and modern backend architectures
 
 ## 🧠 Engineering Focus
 
