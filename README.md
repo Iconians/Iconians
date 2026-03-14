@@ -116,8 +116,7 @@ Choose tools that solve the problem well — not simply the newest trend.
 
 ## 🧪 Currently Exploring
 
-- Go for backend services and CLI tooling
-- Systems programming concepts from C
+- AI integration
 - Database performance and query optimization
 - Modern runtime tooling like Bun
 
