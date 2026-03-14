@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-Stack+Engineer;Building+Production+SaaS+Applications;Mentoring+Developers+in+Modern+Web+Tech;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-Stack+Engineer;Building+Production+SaaS+Applications;Mentoring+Developers+in+Modern+Web+Tech;" />
 </h1>
 
 <p align="center">
