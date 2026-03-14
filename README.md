@@ -5,11 +5,11 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-stack+engineer;Building+scalable+SaaS+systems;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-Stack+Engineer;Building+Production+SaaS+Applications;Mentoring+Developers+in+Modern+Web+Tech;" />
 </h1>
 
 <p align="center">
-  Full-stack engineer building production SaaS systems and mentoring developers in modern web technologies.
+  Full-stack engineer building scalable SaaS platforms and mentoring developers in modern web technologies.
 </p>
 
 ---
@@ -38,16 +38,28 @@ Current work includes:
 
 ## 📌 Featured Projects
 
-**IntelliTaskPro**  
-AI-powered SaaS project management platform with Stripe billing and multi-tenant architecture.
+<a href="https://github.com/Iconians/intellitaskpro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=intellitaskpro&theme=tokyonight" />
+</a>
 
-**Ghost Mammoth Pickleball**  
-Full-stack membership platform for managing pickleball events.
+<a href="https://github.com/Iconians/ghostmammoth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=ghostmammoth&theme=tokyonight" />
+</a>
 
-**Personal Portfolio**  
-Developer portfolio built with Next.js highlighting full-stack SaaS projects.
+<a href="https://github.com/Iconians/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=portfolio&theme=tokyonight" />
+</a>
+
+*Ghost Mammoth Pickleball* was built collaboratively with another developer.
 
 If you're building a product and need someone who thinks beyond the UI and into the **system design**, I'm always open to connecting.
+
+---
+
+## 🤝 Collaboration
+
+Some projects are built collaboratively with other developers and designers.  
+I enjoy working in team environments where architecture, product ideas, and engineering decisions are discussed and refined together.
 
 ---
 
@@ -72,6 +84,16 @@ I help students move beyond tutorials by focusing on:
 • Role-based access control (RBAC)  
 • AI integrations in production applications  
 • Real-time collaboration systems
+
+---
+
+## ⚙ Systems I've Built
+
+• Multi-tenant SaaS platforms  
+• Stripe subscription billing systems  
+• Role-based access control systems  
+• Event and membership management platforms  
+• Server-rendered web applications
 
 ---
 
