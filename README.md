@@ -9,18 +9,47 @@
 </h1>
 
 <p align="center">
-  Full-stack engineer building SaaS products and mentoring developers in modern web technologies.
+  Full-stack engineer building production SaaS systems and mentoring developers in modern web technologies.
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I build SaaS products with a focus on **performance, scalability, and pragmatic architecture**.
+
+My background started close to the systems level — troubleshooting operating systems and hardware — which shaped how I think about software today.
+
+That perspective carries into my development work: understanding **how systems behave underneath the application layer** and designing software that reflects those realities.
+
+---
 
 ## 🚀 What I'm Building
 
-I focus on building **production SaaS systems** and helping new developers learn modern full-stack development.
+Currently building production SaaS systems and mentoring developers in modern web technologies.
 
 Current work includes:
 
-• **IntelliTaskPro** – AI-powered project management SaaS with multi-tenant architecture and Stripe billing  
-• **Ghost Mammoth Pickleball** – membership and event management SaaS for a pickleball club  
+• **IntelliTaskPro** – AI-powered project management SaaS with multi-tenant architecture, Stripe subscriptions, and real-time collaboration  
+• **Ghost Mammoth Pickleball** – membership and event management SaaS platform for a pickleball club  
 • **Developer Education** – mentoring students and creating course material for modern web development
+
+---
+
+## 📌 Featured Projects
+
+**IntelliTaskPro**  
+AI-powered SaaS project management platform with Stripe billing and multi-tenant architecture.
+
+**Ghost Mammoth Pickleball**  
+Full-stack membership platform for managing pickleball events.
+
+**Personal Portfolio**  
+Developer portfolio built with Next.js highlighting full-stack SaaS projects.
+
+If you're building a product and need someone who thinks beyond the UI and into the **system design**, I'm always open to connecting.
+
+---
 
 ## 🎓 Teaching & Mentorship
 
@@ -33,98 +62,53 @@ I help students move beyond tutorials by focusing on:
 • Building full-stack projects with modern tools like Next.js and PostgreSQL  
 • Exploring new tooling such as Bun and modern backend architectures
 
+---
+
 ## 🧠 Engineering Focus
 
-• SaaS architecture  
-• Backend system design  
-• Multi-tenant database modeling  
+• SaaS architecture and system design  
+• Multi-tenant application design  
 • Subscription billing systems  
-• AI integrations in production apps  
+• Role-based access control (RBAC)  
+• AI integrations in production applications  
 • Real-time collaboration systems
-
----
-
-## 🧠 About Me
-
-I build SaaS products with a focus on **performance, scalability, and pragmatic architecture**.
-
-My background started closer to the **systems level** — troubleshooting operating systems, working with hardware, and understanding how software actually runs. That perspective now informs how I design and build modern web applications.
-
-Today I primarily work with:
-
-- **Next.js**
-- **TypeScript**
-- **PostgreSQL**
-- **Server-Side Rendering**
-
-I've built:
-
-- Multi-tenant SaaS platforms
-- Stripe subscription & billing systems
-- Role-based access control (RBAC)
-- Production database query optimizations
-
----
-
-## ⚙️ What I Care About
-
-- Reducing page load times
-- Clean architecture that scales
-- Choosing the **right tool — not the trendy one**
-- Shipping features that solve **real problems**
 
 ---
 
 ## 🏗 Architecture Principles
 
-Some design principles I follow when building SaaS systems:
+Principles I follow when building SaaS systems:
 
-**Server-first architecture**
+**Server-first architecture**  
+Use Next.js server rendering and API routes to keep business logic on the backend.
 
-Use Next.js server rendering and API routes to keep business logic close to the backend.
+**Relational data modeling**  
+PostgreSQL schemas reflect real domain relationships instead of quick NoSQL patterns.
 
-**Relational data modeling**
+**Clear ownership of state**  
+Client state handles UI; server state handles persistence and business rules.
 
-PostgreSQL schemas designed around real domain relationships rather than quick NoSQL patterns.
-
-**Clear ownership of state**
-
-Client state for UI only.  
-Server state for business logic and persistence.
-
-**Pragmatic tool selection**
-
-Choose the tool that solves the problem — not the one trending on Twitter.
-
-## Systems I've Built
-
-• Multi-tenant SaaS platforms
-• Stripe subscription billing systems
-• Role-based access control systems
-• Server-side rendered applications
+**Pragmatic tool selection**  
+Choose tools that solve the problem well — not simply the newest trend.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Frontend**
+**Frontend**  
 Next.js • React • TypeScript • Tailwind
 
-**Backend**
-Node.js • PostgreSQL • Prisma • REST APIs
+**Backend**  
+Node.js • PostgreSQL • Prisma
 
-**Infrastructure**
+**Infrastructure**  
 Stripe • Redis • BullMQ • Pusher
 
-**AI**
+**AI**  
 Google Gemini • Ollama
 
-**Systems & Tooling**  
-Docker • Git • CI/CD • Linux
-
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,git,github,figma,tailwind,postman,vite,vitest,nodejs,javascript,typescript,express,nextjs,vue,supabase,vercel,sqlite,python" />
-</div> -->
+**Systems**  
+Docker • Linux • CI/CD
 
 ---
 
@@ -149,19 +133,6 @@ Docker • Git • CI/CD • Linux
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-## 📌 Featured Projects
-
-**IntelliTaskPro**  
-AI-powered SaaS project management platform with Stripe billing and multi-tenant architecture.
-
-**Ghost Mammoth Pickleball**  
-Full-stack membership platform for managing pickleball leagues and events.
-
-**Personal Portfolio**  
-Developer portfolio built with Next.js highlighting full-stack SaaS projects.
-
-If you're building a product and need someone who thinks beyond the UI and into the **system design**, I'm always open to connecting.
 
 ---
 
