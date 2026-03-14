@@ -43,11 +43,11 @@ Current work includes:
 </a>
 
 <a href="https://github.com/mikesz88/ghostMammothsPB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesz88&repo=ghostmammoth&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesz88&repo=ghostMammothsPB&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Iconians/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=portfolio&theme=tokyonight" />
+<a href="https://github.com/Iconians/portfolioSite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=portfolioSite&theme=tokyonight" />
 </a>
 
 *Ghost Mammoth Pickleball* was built collaboratively with another developer.
