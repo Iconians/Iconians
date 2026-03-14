@@ -87,16 +87,6 @@ I help students move beyond tutorials by focusing on:
 
 ---
 
-## ⚙ Systems I've Built
-
-• Multi-tenant SaaS platforms  
-• Stripe subscription billing systems  
-• Role-based access control systems  
-• Event and membership management platforms  
-• Server-rendered web applications
-
----
-
 ## 🏗 Architecture Principles
 
 Principles I follow when building SaaS systems:
@@ -112,6 +102,24 @@ Client state handles UI; server state handles persistence and business rules.
 
 **Pragmatic tool selection**  
 Choose tools that solve the problem well — not simply the newest trend.
+
+---
+
+## 🔭 Current Engineering Focus
+
+- Building production SaaS platforms with **Next.js and PostgreSQL**
+- Exploring **AI-assisted workflows** in modern applications
+- Designing **multi-tenant architectures and RBAC systems**
+- Teaching developers how to move from tutorials to real projects
+
+---
+
+## 🧪 Currently Exploring
+
+- Go for backend services and CLI tooling
+- Systems programming concepts from C
+- Database performance and query optimization
+- Modern runtime tooling like Bun
 
 ---
 
@@ -134,15 +142,7 @@ Docker • Linux • CI/CD
 
 ---
 
-## 📈 Current Focus
-
-- Building **production-grade SaaS applications**
-- Deepening **systems and backend engineering knowledge**
-- Studying **data structures, algorithms, and database performance**
-
----
-
-## 🔗 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:claytoncripe@gmail.com">
@@ -165,15 +165,10 @@ Docker • Linux • CI/CD
   <br/><br/><br/>
 </div>
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Iconians&theme=tokyonight)
+
 ![Clayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iconians&show_icons=true&theme=tokyonight)
 
 ---
-
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=Iconians&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Iconians&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iconians&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
