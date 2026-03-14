@@ -42,8 +42,8 @@ Current work includes:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=intellitaskpro&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Iconians/ghostmammoth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=ghostmammoth&theme=tokyonight" />
+<a href="https://github.com/mikesz88/ghostMammothsPB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mikesz88&repo=ghostmammoth&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Iconians/portfolio">
