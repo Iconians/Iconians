@@ -168,6 +168,6 @@ Docker • Linux • CI/CD
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Iconians&theme=tokyonight)
 
-![Clayton's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iconians&show_icons=true&theme=tokyonight)
+<!-- ![Clayton's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iconians&show_icons=true&theme=tokyonight) -->
 
 ---
