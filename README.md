@@ -134,7 +134,8 @@ Node.js • PostgreSQL • Prisma
 Stripe • Redis • BullMQ • Pusher
 
 **AI**  
-Google Gemini • Ollama
+Cursor • ChatGPT  
+Gemini • Ollama — built into shipped apps; otherwise light use (Gemini sometimes via Google Search)
 
 **Systems**  
 Docker • Linux • CI/CD
