@@ -78,12 +78,11 @@ I help students move beyond tutorials by focusing on:
 
 ## 🧠 Engineering Focus
 
-• SaaS architecture and system design  
-• Multi-tenant application design  
-• Subscription billing systems  
-• Role-based access control (RBAC)  
-• AI integrations in production applications  
-• Real-time collaboration systems
+**Core:** SaaS architecture and system design; multi-tenant applications; RBAC; subscription billing; real-time collaboration; AI features in production.
+
+**Shipping:** Production stacks on **Next.js and PostgreSQL**; mentoring developers from tutorials to real projects.
+
+**Exploring:** AI-assisted workflows; database performance and query optimization; **Bun** and modern runtimes.
 
 ---
 
@@ -105,40 +104,28 @@ Choose tools that solve the problem well — not simply the newest trend.
 
 ---
 
-## 🔭 Current Engineering Focus
-
-- Building production SaaS platforms with **Next.js and PostgreSQL**
-- Exploring **AI-assisted workflows** in modern applications
-- Designing **multi-tenant architectures and RBAC systems**
-- Teaching developers how to move from tutorials to real projects
-
----
-
-## 🧪 Currently Exploring
-
-- AI integration
-- Database performance and query optimization
-- Modern runtime tooling like Bun
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend**  
 Next.js • React • TypeScript • Tailwind
 
 **Backend**  
-Node.js • PostgreSQL • Prisma
+Node.js • Bun • PostgreSQL • Prisma • Auth.js (NextAuth)
+
+**Testing**  
+Playwright • Vitest • accessibility (axe-core)
 
 **Infrastructure**  
-Stripe • Redis • BullMQ • Pusher
+Stripe • Redis • BullMQ • Pusher • Resend  
+Vercel • Vercel KV • Neon • Supabase • Railway (limited) • Sentry
 
 **AI**  
 Cursor • ChatGPT  
 Gemini • Ollama — app integrations; occasional Gemini in Search
 
-**Systems**  
-Docker • Linux • CI/CD
+**Systems & ops**  
+Docker • Linux • shell / CLI workflows  
+GitHub Actions • CI/CD
 
 ---
 
