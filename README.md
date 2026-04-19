@@ -129,6 +129,20 @@ GitHub Actions • CI/CD
 
 ---
 
+<!--
+## Availability
+
+Template — uncomment and edit when you want this visible:
+
+**Open to:** full-time • contract • freelance (pick what applies)
+
+**How to reach me:** [LinkedIn](https://www.linkedin.com/in/claytoncripe) • [Portfolio](https://www.claytoncripe.com)
+
+_Add timezone or start date here if useful._
+
+---
+-->
+
 ## 🤝 Let's Connect
 
 <div align="center">
