@@ -135,7 +135,7 @@ Stripe • Redis • BullMQ • Pusher
 
 **AI**  
 Cursor • ChatGPT  
-Gemini • Ollama — built into shipped apps; otherwise light use (Gemini sometimes via Google Search)
+Gemini • Ollama — app integrations; occasional Gemini in Search
 
 **Systems**  
 Docker • Linux • CI/CD
