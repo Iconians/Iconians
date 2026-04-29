@@ -76,7 +76,7 @@ I help students move beyond tutorials by focusing on:
 
 ---
 
-🧠 Engineering Mindset
+## 🧠 Engineering Mindset
 
 Development Discipline
 
