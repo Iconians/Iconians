@@ -76,13 +76,23 @@ I help students move beyond tutorials by focusing on:
 
 ---
 
-## 🧠 Engineering Focus
+🧠 Engineering Mindset
 
-**Core:** SaaS architecture and system design; multi-tenant applications; RBAC; subscription billing; real-time collaboration; AI features in production.
+Development Discipline
 
-**Shipping:** Production stacks on **Next.js and PostgreSQL**; mentoring developers from tutorials to real projects.
+• Pre-commit Validation: Enforcing strict linting rules and TypeScript compilation  before every commit to ensure the codebase remains "green" and technically sound at all times.
 
-**Exploring:** AI-assisted workflows; database performance and query optimization; **Bun** and modern runtimes.
+• Production-Ready Gates: Automated CI pipelines that block merges unless performance, accessibility, and SEO benchmarks are met.
+
+• SEO Verification: Utilizing Playwright and Vitest to assert that critical meta tags and JSON-LD structured data are correctly rendered for crawlers.
+
+Core Engineering Focus
+
+• Architecture: SaaS architecture and system design; multi-tenant applications; RBAC; subscription billing; real-time collaboration.
+
+• Shipping: Production stacks on Next.js and PostgreSQL; mentoring developers from tutorials to real projects.
+
+• Exploring: AI-assisted workflows; database performance and query optimization; Bun and modern runtimes.
 
 ---
 
@@ -113,7 +123,7 @@ Next.js • React • TypeScript • Tailwind
 Node.js • Bun • PostgreSQL • Prisma • Auth.js (NextAuth)
 
 **Testing**  
-Playwright • Vitest • accessibility (axe-core)
+Playwright • Vitest • accessibility (axe-core) • SEO (Lighthouse, Vitest, Playwright) • Static Analysis (ESLint, Prettier, TypeScript)
 
 **Infrastructure**  
 Stripe • Redis • BullMQ • Pusher • Resend  
