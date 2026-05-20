@@ -36,7 +36,7 @@ Current work includes:
 
 ---
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 <a href="https://github.com/Iconians/intellitaskpro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Iconians&repo=intellitaskpro&theme=tokyonight" />
@@ -54,7 +54,7 @@ Current work includes:
 
 If you're building a product and need someone who thinks beyond the UI and into the **system design**, I'm always open to connecting.
 
----
+--- -->
 
 ## 🤝 Collaboration
 
