@@ -5,11 +5,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-Stack+Engineer;Building+Production+SaaS+Applications;Mentoring+Developers+in+Modern+Web+Tech;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi%2C+I'm+Clayton+Cripe+%F0%9F%91%8B;Full-Stack+Engineer;Building+Business+Systems;Building+Production+SaaS+Applications;Mentoring+Developers;" />
 </h1>
 
 <p align="center">
-  Full-stack engineer building scalable SaaS platforms and mentoring developers in modern web technologies.
+  Full-stack engineer building custom business systems and scalable SaaS applications while mentoring developers in modern web technologies.
 </p>
 
 ---
